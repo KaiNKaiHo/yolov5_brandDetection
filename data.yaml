@@ -1,7 +1,7 @@
 path: 'C:/Users/manhc/yolov5/yolov5'
 train: 'C:/Users/manhc/yolov5/data'
 val: 'C:/Users/manhc/yolov5/data'
-test:  'C:/Users/manhc/yolov5/test/images'
+test:  
 
 # Classes 
 names:
